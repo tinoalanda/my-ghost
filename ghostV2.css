@@ -1,0 +1,13 @@
+#game {
+    background-color: black;
+    width: 400px;
+    height: 400px;
+    font-size: 45px;
+    line-height: 1;
+    position: relative;
+}
+
+#ghost,
+#player {
+    position: absolute;
+}
